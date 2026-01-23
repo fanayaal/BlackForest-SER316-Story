@@ -11,3 +11,5 @@ https://github.com/myanez31/Brandenburg-IceBreaker/pull/8
 
 Jesus Castillo
 https://github.com/1234660377/koenigssee/pull/4
+
+Thomas Woart: https://github.com/Jwoart2034/Brandenburg-IceBreaker/pull/1
